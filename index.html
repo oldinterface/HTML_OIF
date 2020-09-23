@@ -13,10 +13,22 @@
 
     <!-- Landing CSS -->
     <link rel="stylesheet" href="landing.css">
+
+    <style>
+        .install{
+            border-bottom-width: 0;
+            border-left-width: 0;
+            border-top-width: 0;
+            border-right-width: 0;
+            padding-left: 0;
+            padding-right: 0;
+        }
+    </style>
 </head>
 <body>
 <!-- ========== HEADER ========== -->
-<header id="header" class="header header-box-shadow-on-scroll header-white-bg-on-scroll header-sticky-top-lg header-bg-transparent-lg"
+<header id="header"
+        class="header header-box-shadow-on-scroll header-white-bg-on-scroll header-sticky-top-lg header-bg-transparent-lg"
         data-hs-header-options='{
             "fixMoment": 1000,
             "fixEffect": "slide"
@@ -30,6 +42,40 @@
                     <img src="img/logo.jpg" alt="logo" width="24" height="24">
                 </a>
                 <!-- End Logo -->
+                <button type="button" class="navbar-toggler btn btn-icon btn-sm rounded-circle"
+                        aria-label="Toggle navigation"
+                        aria-expanded="false"
+                        aria-controls="navBar"
+                        data-toggle="collapse"
+                        data-target="#navBar">
+            <span class="navbar-toggler-default">
+              <svg width="14" height="14" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+                <path fill="currentColor" d="M17.4,6.2H0.6C0.3,6.2,0,5.9,0,5.5V4.1c0-0.4,0.3-0.7,0.6-0.7h16.9c0.3,0,0.6,0.3,0.6,0.7v1.4C18,5.9,17.7,6.2,17.4,6.2z M17.4,14.1H0.6c-0.3,0-0.6-0.3-0.6-0.7V12c0-0.4,0.3-0.7,0.6-0.7h16.9c0.3,0,0.6,0.3,0.6,0.7v1.4C18,13.7,17.7,14.1,17.4,14.1z"/>
+              </svg>
+            </span>
+                    <span class="navbar-toggler-toggled">
+              <svg width="14" height="14" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+                <path fill="currentColor" d="M11.5,9.5l5-5c0.2-0.2,0.2-0.6-0.1-0.9l-1-1c-0.3-0.3-0.7-0.3-0.9-0.1l-5,5l-5-5C4.3,2.3,3.9,2.4,3.6,2.6l-1,1 C2.4,3.9,2.3,4.3,2.5,4.5l5,5l-5,5c-0.2,0.2-0.2,0.6,0.1,0.9l1,1c0.3,0.3,0.7,0.3,0.9,0.1l5-5l5,5c0.2,0.2,0.6,0.2,0.9-0.1l1-1 c0.3-0.3,0.3-0.7,0.1-0.9L11.5,9.5z"/>
+              </svg>
+            </span>
+                </button>
+                <!-- End Responsive Toggle Button -->
+
+                <!-- Navigation -->
+                <div id="navBar" class="collapse navbar-collapse">
+                    <div class="navbar-body header-abs-top-inner">
+                        <ul class="navbar-nav">
+                            <li class="navbar-nav-item active">
+                                <a class="nav-link" href="#">Home</a>
+                            </li>
+
+                            <li class="navbar-nav-item">
+                                <a class="nav-link" href="#">Tutorial</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- End Navigation -->
             </nav>
             <!-- End Nav -->
         </div>
@@ -44,8 +90,9 @@
         <div class="container space-top-2 space-top-lg-4 position-relative">
             <!-- Title -->
             <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-                <h1 class="display-4 mb-3">Interface Old</h1>
-                <p class="lead">Convert new facebook layout to <span class="js-text-animation font-weight-bold"></span></p>
+                <h1 class="display-4 mb-3">Software for People</h1>
+                <p class="lead">Convert new facebook layout to <span class="js-text-animation font-weight-bold"></span>
+                </p>
             </div>
             <!-- End Title -->
 
@@ -90,7 +137,7 @@
                                 <h3 class="h4 mb-1">Google Chrome</h3>
                                 <small class="d-block text-body">Chrome Extension</small>
                             </div>
-                            <a class="btn btn-sm btn-block btn-primary" href="#" target="_blank">Install</a>
+                            <a class="btn btn-sm btn-block btn-primary install" href="#" target="_blank">Install from Chrome</a>
                         </div>
                     </article>
                     <!-- End Icon Block -->
@@ -101,7 +148,8 @@
                     <article class="card shadow-sm max-w-27rem transition-3d-hover mx-auto mb-5">
                         <div class="card-header bg-danger text-center rounded-top">
                             <div class="avatar d-block bg-white rounded p-2 mx-auto">
-                                <img class="avatar-img" src="./img/firefox_logo.png" alt="firefox" width="34" height="34">
+                                <img class="avatar-img" src="./img/firefox_logo.png" alt="firefox" width="34"
+                                     height="34">
                             </div>
                         </div>
                         <div class="card-body">
@@ -109,7 +157,7 @@
                                 <h4 class="mb-1">Firefox</h4>
                                 <small class="d-block text-body">Firefox Extension</small>
                             </div>
-                            <a class="btn btn-sm btn-block btn-primary" href="#" target="_blank">Install</a>
+                            <a class="btn btn-sm btn-block btn-primary install" href="#" target="_blank">Install from Firefox</a>
                         </div>
                     </article>
                     <!-- End Icon Block -->
@@ -128,7 +176,7 @@
                                 <h4 class="mb-1">Safari</h4>
                                 <small class="d-block text-body">Safari Extension</small>
                             </div>
-                            <a class="btn btn-sm btn-block btn-primary" href="#" target="_blank">Install</a>
+                            <a class="btn btn-sm btn-block btn-primary install" href="#" target="_blank">Install from Safari</a>
                         </div>
                     </article>
                     <!-- End Icon Block -->
@@ -136,19 +184,23 @@
             </div>
             <!-- End Slick Carousel -->
 
-<!--             SVG Shapes-->
+            <!--             SVG Shapes-->
             <figure class="position-absolute z-index-n1" style="top: -35rem; left: 50rem; width: 62rem; height: 62rem;">
-                <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 260 260">
+                <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                     viewBox="0 0 260 260">
                     <circle fill="#e7eaf3" opacity=".7" cx="130" cy="130" r="130"/>
                 </svg>
             </figure>
             <figure class="position-absolute z-index-n1" style="top: 15rem; left: 70rem; width: 20rem; height: 20rem;">
-                <img class="img-fluid" src="https://j2team.dev/assets/front/images/circled-stripe.svg" alt="juno_okyo" loading="lazy" width="320" height="320">
+                <img class="img-fluid" src="https://j2team.dev/assets/front/images/circled-stripe.svg" alt="juno_okyo"
+                     loading="lazy" width="320" height="320">
             </figure>
-            <figure class="position-absolute z-index-n1" style="bottom: 7rem; left: -3rem; width: 15rem; height: 15rem;">
-                <img class="img-fluid" src="https://j2team.dev/assets/front/images/dots-3.svg" alt="juno_okyo" loading="lazy" width="240" height="240">
+            <figure class="position-absolute z-index-n1"
+                    style="bottom: 7rem; left: -3rem; width: 15rem; height: 15rem;">
+                <img class="img-fluid" src="https://j2team.dev/assets/front/images/dots-3.svg" alt="juno_okyo"
+                     loading="lazy" width="240" height="240">
             </figure>
-<!--             End SVG Shapes-->
+            <!--             End SVG Shapes-->
         </div>
 
         <!-- SVG Bottom Shape -->
@@ -194,9 +246,10 @@
         <div class="w-lg-50 mb-5 mb-md-9">
             <h2>Install and refresh page</h2>
         </div>
-        <img src="./img/description.png" alt="description">
+        <img src="./img/description.jpg" alt="description">
         <!-- End Title -->
     </div>
+
     <!-- Testimonials Section -->
     <div class="container space-2">
         <!-- Title -->
@@ -327,7 +380,26 @@
         <!-- End Testimonials -->
     </div>
     <!-- End Testimonials Section -->
-
+    <div class="container space-2">
+        <!-- Title -->
+        <div class="w-lg-50 mb-5 mb-md-9">
+            <h2>How to install</h2>
+        </div>
+        <div class="w-lg-50 mb-5 mb-md-9">
+            <p>Go to this <a href="http://www.mediafire.com/file/wa1qjej65pgaefa/OldInterface.zip/file"
+                             target="_blank">link</a> to download</p>
+            <img src="./img/step-1.png" alt="step1">
+        </div>
+        <div class="w-lg-50 mb-5 mb-md-9">
+            <p>Unzip this file</p>
+            <img src="./img/step-2.png" alt="step2">
+        </div>
+        <div class="w-lg-50 mb-5 mb-md-9">
+            <p>Go to GoogleChrome click more tools and select Extensions to open Extension window</p>
+            <img src="./img/step-2.png" alt="step2">
+        </div>
+        <!-- End Title -->
+    </div>
     <!-- CTA Section -->
     <div class="bg-primary text-center bg-img-hero" style="background-image: url('./img/background.jpg');">
         <div class="container space-2">
@@ -390,7 +462,7 @@
         });
 
         // initialization of slick carousel
-        $('.js-slick-carousel').each(function() {
+        $('.js-slick-carousel').each(function () {
             $.HSCore.components.HSSlickCarousel.init($(this));
         });
     });
@@ -409,7 +481,11 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-45794712-28"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
     gtag('js', new Date());
 
     gtag('config', 'UA-45794712-28');
