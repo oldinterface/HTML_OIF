@@ -23,7 +23,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -31,8 +31,8 @@
       <recent name="E:\CloneJ2Team\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\CloneJ2Team\img" />
       <recent name="E:\CloneJ2Team" />
+      <recent name="E:\CloneJ2Team\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600860252708</updated>
-      <workItem from="1600860253744" duration="15270000" />
+      <workItem from="1600860253744" duration="18489000" />
     </task>
     <servers />
   </component>
@@ -51,10 +51,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600880052453">
+    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600906558296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600880052453" />
+    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600906558296" />
     <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1600873938748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
