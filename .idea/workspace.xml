@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a40bcd87-6d04-42e6-8a89-de197be08795" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,15 +29,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\CloneJ2Team\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CloneJ2Team\img" />
       <recent name="E:\CloneJ2Team" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\CloneJ2Team\img" />
     </key>
   </component>
@@ -52,7 +51,7 @@
       <updated>1600860252708</updated>
       <workItem from="1600860253744" duration="19306000" />
       <workItem from="1600925964798" duration="646000" />
-      <workItem from="1600926776627" duration="330000" />
+      <workItem from="1600926776627" duration="575000" />
     </task>
     <task id="LOCAL-00001" summary="add iterator for step">
       <created>1600926539339</created>
@@ -61,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600926539339</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bold step">
+      <created>1600927133270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600927133270</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,25 +75,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add iterator for step" />
-    <option name="LAST_COMMIT_MESSAGE" value="add iterator for step" />
+    <MESSAGE value="bold step" />
+    <option name="LAST_COMMIT_MESSAGE" value="bold step" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600906558296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600906558296" />
-    <state x="471" y="30" key="CommitChangelistDialog2" timestamp="1600926538250">
+    <state x="471" y="30" key="CommitChangelistDialog2" timestamp="1600927132605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="471" y="30" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600926538250" />
+    <state x="471" y="30" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600927132605" />
     <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1600873938748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600873938748" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1600926548435">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1600927134924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600926548435" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600927134924" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1600861442544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
