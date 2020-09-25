@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a40bcd87-6d04-42e6-8a89-de197be08795" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/step-2-ff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/step-3-ff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/step-4-ff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/step-5-ff.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial-ff.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial-ff.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +37,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\CloneJ2Team\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\CloneJ2Team\img" />
       <recent name="E:\CloneJ2Team" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\CloneJ2Team\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,7 +58,7 @@
       <workItem from="1600926776627" duration="1662000" />
       <workItem from="1600964164157" duration="79000" />
       <workItem from="1600964799335" duration="29000" />
-      <workItem from="1601075054505" duration="754000" />
+      <workItem from="1601075054505" duration="2134000" />
     </task>
     <task id="LOCAL-00001" summary="add iterator for step">
       <created>1600926539339</created>
@@ -104,10 +109,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="change download url" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600906558296">
+    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601076698401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600906558296" />
+    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601076698401" />
     <state x="471" y="30" key="CommitChangelistDialog2" timestamp="1600964185889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
