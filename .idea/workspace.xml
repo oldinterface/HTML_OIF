@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a40bcd87-6d04-42e6-8a89-de197be08795" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tutorial-gc.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial-gc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial-ff.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial-ff.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <workItem from="1600926776627" duration="1662000" />
       <workItem from="1600964164157" duration="79000" />
       <workItem from="1600964799335" duration="29000" />
-      <workItem from="1601075054505" duration="679000" />
+      <workItem from="1601075054505" duration="754000" />
     </task>
     <task id="LOCAL-00001" summary="add iterator for step">
       <created>1600926539339</created>
