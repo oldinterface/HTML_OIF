@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a40bcd87-6d04-42e6-8a89-de197be08795" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,10 @@
       <workItem from="1600964164157" duration="79000" />
       <workItem from="1600964799335" duration="29000" />
       <workItem from="1601075054505" duration="2246000" />
-      <workItem from="1601078602775" duration="29000" />
+      <workItem from="1601078602775" duration="69000" />
+      <workItem from="1601078675439" duration="25000" />
+      <workItem from="1601085506649" duration="25000" />
+      <workItem from="1601113903596" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="add iterator for step">
       <created>1600926539339</created>
@@ -91,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600964186764</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add new link">
+      <created>1601078642422</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601078642422</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,25 +113,26 @@
     <MESSAGE value="bold step" />
     <MESSAGE value="add icon" />
     <MESSAGE value="change download url" />
-    <option name="LAST_COMMIT_MESSAGE" value="change download url" />
+    <MESSAGE value="add new link" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new link" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601076698401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601076698401" />
-    <state x="471" y="30" key="CommitChangelistDialog2" timestamp="1600964185889">
+    <state x="471" y="30" key="CommitChangelistDialog2" timestamp="1601078641691">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="471" y="30" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600964185889" />
+    <state x="471" y="30" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601078641691" />
     <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1600873938748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600873938748" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1601077247889">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1601078643888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601077247889" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601078643888" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1600861442544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
