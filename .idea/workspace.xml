@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a40bcd87-6d04-42e6-8a89-de197be08795" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/firefox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/feature_check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/feature_check_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/firefox-256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo-header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/socialfixer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/landing.css" afterDir="false" />
+    <list default="true" id="a40bcd87-6d04-42e6-8a89-de197be08795" name="Default Changelist" comment="add new page">
+      <change beforePath="$PROJECT_DIR$/firefox.html" beforeDir="false" afterPath="$PROJECT_DIR$/firefox.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +62,7 @@
       <workItem from="1601133935433" duration="12000" />
       <workItem from="1601136223790" duration="4000" />
       <workItem from="1601272471082" duration="642000" />
-      <workItem from="1601275801537" duration="1388000" />
+      <workItem from="1601275801537" duration="1538000" />
     </task>
     <task id="LOCAL-00001" summary="add iterator for step">
       <created>1600926539339</created>
@@ -147,17 +140,18 @@
     <MESSAGE value="change download url" />
     <MESSAGE value="add new link" />
     <MESSAGE value="install from firefox" />
-    <option name="LAST_COMMIT_MESSAGE" value="install from firefox" />
+    <MESSAGE value="add new page" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601076698401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601076698401" />
-    <state x="471" y="30" key="CommitChangelistDialog2" timestamp="1601272515240">
+    <state x="471" y="30" key="CommitChangelistDialog2" timestamp="1601277237391">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="471" y="30" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601272515240" />
+    <state x="471" y="30" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601277237391" />
     <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1600873938748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
