@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a40bcd87-6d04-42e6-8a89-de197be08795" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/firefox.html" beforeDir="false" afterPath="$PROJECT_DIR$/firefox.html" afterDir="false" />
-    </list>
+    <list default="true" id="a40bcd87-6d04-42e6-8a89-de197be08795" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +60,7 @@
       <workItem from="1601133935433" duration="12000" />
       <workItem from="1601136223790" duration="4000" />
       <workItem from="1601272471082" duration="642000" />
-      <workItem from="1601275801537" duration="1632000" />
+      <workItem from="1601275801537" duration="1677000" />
     </task>
     <task id="LOCAL-00001" summary="add iterator for step">
       <created>1600926539339</created>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601277422434</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add new page">
+      <created>1601277458397</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601277458397</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,18 +167,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601076698401" />
-    <state x="471" y="30" key="CommitChangelistDialog2" timestamp="1601277421435">
+    <state x="471" y="30" width="978" height="969" key="CommitChangelistDialog2" timestamp="1601277457225">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="471" y="30" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601277421435" />
+    <state x="471" y="30" width="978" height="969" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601277457225" />
     <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1600873938748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600873938748" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1601277424900">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1601277460734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601277424900" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601277460734" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1600861442544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
